@@ -1,0 +1,9 @@
+
+0. APIService.init
+根据用户选择 EndPoint.Region 初始化，切换前建议先注销登录
+1. APIService.login -> User
+保存
+2. APIService.connections -> patientId
+保存
+3. APIService.connectionGraph -> graphData
+截止当前时间12小时内的数据，需要保存且合并相同时间戳的数据

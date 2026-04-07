@@ -1,0 +1,42 @@
+{
+  "originHash" : "a3304c6d006c8a79709e727fd3f63132a1c0bcef5415e62c48ee95682c57354a",
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "3f99050e75bbc6fe71fc323adabb039756680016",
+        "version" : "5.11.1"
+      }
+    },
+    {
+      "identity" : "keychainaccess",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kishikawakatsumi/KeychainAccess",
+      "state" : {
+        "branch" : "master",
+        "revision" : "e0c7eebc5a4465a3c4680764f26b7a61f567cdaf"
+      }
+    },
+    {
+      "identity" : "pow",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/flexih/Pow.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "f6baf783467e3ecd690654f19e37f341e838d6f4"
+      }
+    },
+    {
+      "identity" : "purchases-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/RevenueCat/purchases-ios.git",
+      "state" : {
+        "revision" : "abb0d68c3e7ba97b16ab51c38fcaca16b0e358c8",
+        "version" : "5.66.0"
+      }
+    }
+  ],
+  "version" : 3
+}
